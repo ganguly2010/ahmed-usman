@@ -1,1 +1,6 @@
-# ahmed-usman
+print("Twinkle, twinkle, little star,")
+print("         How I wonder what you are!")
+print("               Up above the world so high,")
+print("               Like adiamond in the sky.")
+print("Twinkle, twinkle, little star,")
+print("         How I wonder what you are")
